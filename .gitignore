@@ -1,0 +1,5 @@
+# Ignore IDE and vim files
+.swp
+*.swp
+.DS_Store
+.idea
