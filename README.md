@@ -1,2 +1,3 @@
-# docker-magento2
-Docker starter Template for Magento 2 project
+# Docker Starter template for Magento 2.4 Project
+
+Docker starter Template for Magento 2.4 project
